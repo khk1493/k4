@@ -21,5 +21,10 @@ New start after merge
 1593.2
 1593.3
 >>>>>>> exp-2.0
+<<<<<<< HEAD
 master 1593.4
 master 1593.5
+=======
+Narmho and Somi plays together.
+Their mother seemed to be good but not now.
+>>>>>>> 남호
