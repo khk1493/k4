@@ -1,4 +1,4 @@
-1493.1
+﻿1493.1
 1493.2
 1493.3
 1493.4
@@ -28,3 +28,4 @@ master 1593.5
 Narmho and Somi plays together.
 Their mother seemed to be good but not now.
 >>>>>>> 남호
+yyyyy
