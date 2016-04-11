@@ -16,6 +16,7 @@ tiger, apple,
 At last I can understand the brance function in the git.
 ===================
 다시 시작
+오늘은 월요일입니다.
 A little try would be better. - master
 New start after merge
 1593.1
