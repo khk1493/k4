@@ -15,6 +15,7 @@
 tiger, apple, 
 At last I can understand the brance function in the git.
 ===================
+다시 시작
 A little try would be better. - master
 New start after merge
 1593.1
